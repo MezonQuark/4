@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xa25df04534cDa7550F6B313a318f190FEa5660fc",
+  "SCAN_LINK": "https://testnet.snowtrace.io/address/0xa25df04534cda7550f6b313a318f190fea5660fc",
+  "NETWORK": {
+    "NAME": "Avalanche FUJI C-Chain",
+    "SYMBOL": "Avax",
+    "ID": 43113
+  },
+  "NFT_NAME": "AVAAA",
+  "SYMBOL": "AVT",
+  "MAX_SUPPLY": 3000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Kalao",
+  "MARKETPLACE_LINK": "https://beta.kalao.io/collection/0xa25df04534cda7550f6b313a318f190fea5660fc",
+  "SHOW_BACKGROUND": true
+}
